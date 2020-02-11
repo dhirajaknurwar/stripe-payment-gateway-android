@@ -13,7 +13,6 @@ import com.stripe.android.model.Token;
 import com.stripe.android.view.CardInputWidget;
 
 import org.jetbrains.annotations.NotNull;
-
 import java.util.Objects;
 
 public class MainActivity extends AppCompatActivity {
