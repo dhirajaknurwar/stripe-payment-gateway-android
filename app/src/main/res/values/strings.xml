@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stripe Payment Gateway</string>
+    <string name="stripe_api_key">Your stripe key goes here</string>
+</resources>
